@@ -219,7 +219,7 @@
             .replace(/ý|ÿ/g, "y")
             .replace(/ž|ź/g, "z");
       }
-      var icons = [{{ normalisedIconNames }}];
+      var icons = [{{ allIconNames }}].map(normalizeSearchTerm);
     </script>
 </head>
 

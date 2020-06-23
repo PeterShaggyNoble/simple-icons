@@ -147,22 +147,9 @@
 {% assign greyscaleIconsArray = greyscaleIconsUnsortedString | split: ";" | sort | reverse %}
 
 {% assign allIconNames = "" %}
-{% assign normalisedIconNames = "" %}
 {% for icon in iconsArray %}
     {% assign iconArray = icon | split: "," %}
     {% capture allIconNames %}{{ allIconNames }}"{{ iconArray[5] }}",{% endcapture %}
-    {% assign normalised = iconArray[5] | downcase %}
-    {% assign normalised = normalised | replace: "à", "a" | replace: "á", "a" | replace: "â", "a" | replace: "ã", "a" | replace: "ä", "a" %}
-    {% assign normalised = normalised | replace: "ç", "c" | replace: "č", "c" | replace: "ć", "c" %}
-    {% assign normalised = normalised | replace: "è", "e" | replace: "é", "e" | replace: "ê", "e" | replace: "ë", "e" %}
-    {% assign normalised = normalised | replace: "ì", "i" | replace: "í", "i" | replace: "î", "i" | replace: "ï", "i" %}
-    {% assign normalised = normalised | replace: "ñ", "n" | replace: "ň", "n" | replace: "ń", "n" %}
-    {% assign normalised = normalised | replace: "ò", "o" | replace: "ó", "o" | replace: "ô", "o" | replace: "õ", "o" | replace: "ö", "o" %}
-    {% assign normalised = normalised | replace: "š", "s" | replace: "ś", "s" %}
-    {% assign normalised = normalised | replace: "ù", "u" | replace: "ú", "u" | replace: "û", "u" | replace: "ü", "u" %}
-    {% assign normalised = normalised | replace: "ý", "y" | replace: "ÿ", "y" %}
-    {% assign normalised = normalised | replace: "ž", "z" | replace: "ź", "z" %}
-    {% capture normalisedIconNames %}{{ normalisedIconNames }}"{{ normalised }}",{% endcapture %}
 {% endfor %}
 {% for icon in greyscaleIconsArray %}
     {% assign iconArray = icon | split: "," %}
@@ -209,7 +196,7 @@
       function normalizeSearchTerm(value) {
           return value.toLowerCase();
       }
-      var icons = [{{ normalisedIconNames }}];
+      var icons = [{{ allIconNames }}].map(normalizeSearchTerm);
     </script>
 </head>
 

@@ -5405,6 +5405,11 @@
             "guidelines": "https://en.facebookbrand.com/facebookapp/assets/messenger/"
         },
         {
+            "title": "Met Éireann",
+            "hex": "00305F",
+            "source": "https://www.met.ie/about-us/strategy"
+        },
+        {
             "title": "Metabase",
             "hex": "509EE3",
             "source": "https://www.metabase.com/"

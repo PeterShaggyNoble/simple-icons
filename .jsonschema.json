@@ -689,14 +689,15 @@
     "guidelines": {
       "$id": "#guidelines",
       "type": "object",
-      "properties": 
-        "branding": {
-          "description": "Link to the brand guidelines",
-          "$ref": "#/definitions/url"
-        },
-        "trademark": {
-          "description": "Link to the trademark usage guidelines",
-          "$ref": "#/definitions/url"
+      "properties": {
+          "branding": {
+            "description": "Link to the brand guidelines",
+            "$ref": "#/definitions/url"
+          },
+          "trademark": {
+            "description": "Link to the trademark usage guidelines",
+            "$ref": "#/definitions/url"
+          }
         }
       },
       "minProperties": 1,

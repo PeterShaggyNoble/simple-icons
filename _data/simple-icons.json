@@ -9716,7 +9716,9 @@
             "title": "Moodle",
             "hex": "F98012",
             "source": "https://moodle.com/trademarks",
-            "guidelines": "https://moodle.com/trademarks"
+            "guidelines": {
+                "branding": "https://moodle.com/trademarks"
+            }
         },
         {
             "title": "Moonrepo",

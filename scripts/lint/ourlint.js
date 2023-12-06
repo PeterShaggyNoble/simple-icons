@@ -64,10 +64,13 @@ const TESTS = {
       return /^\/+$/.test(url.replace(origin, ''));
     };
 
-    const guidelineUrls = data.icons.filter((icon) =>
-      icon.guidelines &&
-      icon.guidelines.branding === icon.guidelines.trademark,
-    ).map((icon) => icon.title);
+    const guidelineUrls = data.icons
+      .filter(
+        (icon) =>
+          icon.guidelines &&
+          icon.guidelines.branding === icon.guidelines.trademark,
+      )
+      .map((icon) => icon.title);
 
     if (guidelineUrls.length > 0){
       return `Some entries have duplicated brand and trademark guidelines URLs; the trademark guidelines should be removed:\n\n${guidelineUrls.join(

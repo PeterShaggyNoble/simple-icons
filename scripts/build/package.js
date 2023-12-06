@@ -59,7 +59,7 @@ const build = async () => {
       escape(icon.path),
       escape(icon.source),
       escape(icon.hex),
-      icon.guidelines ? `\n  guidelines: '${escape(icon.guidelines)}',` : '',
+      icon.guidelines ? `\n  guidelines: ${JSON.stringify(icon.guidelines)},` : '',
       licenseToObject(icon.license)
         ? `\n  license: ${JSON.stringify(licenseToObject(icon.license))},`
         : '',

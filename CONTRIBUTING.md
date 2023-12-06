@@ -280,7 +280,9 @@ Make sure the icon is added in alphabetical order. If you're in doubt, you can a
 Additionally, each icon in the `_data/simple-icons.json` file may be given any of the following optional values:
 
 * The `slug` must be used to specify the icon's file name in cases where a modifier has been added to it in order to resolve a clash with an existing icon's name.
-* The `guidelines` may be used to specify the URL of the brand's guidelines/press kit/etc. This is useful if the SVG file was sourced from a different place, still if the SVG file was sourced from the guidelines, the URL should be duplicated here.
+* The `guidelines` may be used to:
+  * specify the URL of the `branding` guidelines/press kit/etc. This is useful if the SVG file was sourced from a different place, still if the SVG file was sourced from the guidelines, the URL should be duplicated here.
+  * specify the URL of the `trademark` (usage) guidelines, if it is not the same as the above.
 * The `license` may be used to specify the license under which the icon is available. This is an object with a `type` and `url`. The `type` should be an [SPDX License ID](https://spdx.org/licenses/) or `"custom"`, the `url` is optional unless the `type` is `"custom"`.
 
 Here is the object of the fictional brand from before, but with all optional values, as an example:
@@ -291,7 +293,10 @@ Here is the object of the fictional brand from before, but with all optional val
     "slug": "afictionalbrand_modifier",
     "hex": "123456",
     "source": "https://www.a-fictional-brand.org/logo",
-    "guidelines": "https://www.a-fictional-brand.org/brand-guidelines",
+    "guidelines": {
+        "branding": "https://www.a-fictional-brand.org/brand-guidelines",
+        "trademark": "https://www.a-fictional-brand.org/trademark-guidelines"
+    },
     "license": {
         "type": "CC0-1.0",
         "url": "https://www.a-fictional-brand.org/logo/license"

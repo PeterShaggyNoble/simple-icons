@@ -22,9 +22,9 @@
           "$ref": "#/definitions/sourceUrl"
         },
         "guidelines": {
-          "description": "The brand guidelines",
-          "$ref": "#/definitions/url"
-        },
+          "description": "The brand and trademark guidelines",
+	  "$ref": "#/definitions/guidelines"
+	},
         "aliases": {
           "description": "The aliases for the brand",
           "type": "object",
@@ -636,8 +636,8 @@
           "$ref": "#/definitions/url"
         },
         "guidelines": {
-          "description": "The brand guidelines, if different from the original",
-          "$ref": "#/definitions/url"
+          "description": "The brand and trademark guidelines, if different from the original",
+	  "$ref": "#/definitions/guidelines"
         }
       },
       "additionalProperties": false
@@ -685,6 +685,22 @@
       "else": {
         "$ref": "#/definitions/url"
       }
+    },
+    "guidelines": {
+      "$id": "#guidelines",
+      "type": "object",
+      "properties": 
+        "branding": {
+          "description": "Link to the brand guidelines",
+          "$ref": "#/definitions/url"
+        },
+        "trademark": {
+          "description": "Link to the trademark usage guidelines",
+          "$ref": "#/definitions/url"
+        }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
     },
     "url": {
       "$id": "#url",

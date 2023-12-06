@@ -4,10 +4,22 @@ Simple Icons asks that its users read this disclaimer fully before including an 
 
 ## Table of Contents
 
+- [Overwiew](#overview)
 - [Licenses, Copyrights & Trademarks](#licenses-copyrights--trademarks)
 - [Brand Guidelines](#brand-guidelines)
 - [Update of Brands](#update-of-brands)
 - [Removal of Brands](#removal-of-brands)
+
+## Overview
+
+Simple Icons is a non-commercial, not-for-profit, open source project run by a small group of volunteer maintainers in their spare time. As such, the project and its maintainers have no working legal knowledge nor any legal representation to guide it in matters of copyright law or trademark law, nor to assist us in interpreting any legal documentation provided by companies covering the same.
+
+However, to the best of the team's understanding, the _inclusion_ of icons in our library constitutes fair use of copyrighted material but that that does not extend to the _usage_ of our icons by third parties. Recognising our lack of legal knowledge, though, we will always take immediate action, without question, if [sent a request](#removal-of-brands) by any copyright or trademark holder or their legal representative, to remove an icon from our library.
+
+We also do not make any representation to the users of our pacakage that the inclusion of an icon in our library grants them any permissions in relation to its usage and encourage all our users to ensure they read each brand's guidelines in detail and adhere to the requirements set forth in such documents, seeking permission for usage where applicable. To aid in this, we have taken steps to add support for including copyright/trademark (usage) guidelines, where available, in our icons' metadata along with our existing support for including branding guidelines, featuring both prominently with each icon's entry on our website.
+
+> **Note**\
+> The addition of trademark guidelines to Simple Icons is an ongoing project. Hence, the absence of guidelines for a particular icon does not imply that the usage of that icon is not subject to certain restrictions.
 
 ## Licenses, Copyrights & Trademarks
 

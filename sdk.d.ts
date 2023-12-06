@@ -39,7 +39,7 @@ export type Aliases = {
 type DuplicateAlias = {
   title: string;
   hex?: string;
-  guidelines?: string;
+  guidelines?: { [key: string]: string };
 };
 
 /**
@@ -54,7 +54,7 @@ export type IconData = {
   hex: string;
   source: string;
   slug?: string;
-  guidelines?: string;
+  guidelines?: { [key: string]: string };
   license?: License;
   aliases?: Aliases;
 };

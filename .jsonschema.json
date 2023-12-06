@@ -698,7 +698,6 @@
             "description": "Link to the trademark usage guidelines",
             "$ref": "#/definitions/url"
           }
-        }
       },
       "minProperties": 1,
       "additionalProperties": false

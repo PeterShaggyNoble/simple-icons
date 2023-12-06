@@ -23,8 +23,8 @@
         },
         "guidelines": {
           "description": "The brand and trademark guidelines",
-	  "$ref": "#/definitions/guidelines"
-	},
+          "$ref": "#/definitions/guidelines"
+        },
         "aliases": {
           "description": "The aliases for the brand",
           "type": "object",
@@ -637,7 +637,7 @@
         },
         "guidelines": {
           "description": "The brand and trademark guidelines, if different from the original",
-	  "$ref": "#/definitions/guidelines"
+          "$ref": "#/definitions/guidelines"
         }
       },
       "additionalProperties": false

@@ -72,7 +72,7 @@ const TESTS = {
       )
       .map((icon) => icon.title);
 
-    if (guidelineUrls.length > 0){
+    if (guidelineUrls.length > 0) {
       return `Some entries have duplicated brand and trademark guidelines URLs; the trademark guidelines should be removed:\n\n${guidelineUrls.join(
         '\n',
       )}`;
@@ -81,7 +81,12 @@ const TESTS = {
     const allUrlFields = [
       ...new Set(
         data.icons
-          .flatMap((icon) => [icon.source, icon.guidelines?.branding, icon.guidelines?.trademark, icon.license?.url])
+          .flatMap((icon) => [
+            icon.source,
+            icon.guidelines?.branding,
+            icon.guidelines?.trademark,
+            icon.license?.url,
+          ])
           .filter(Boolean),
       ),
     ];

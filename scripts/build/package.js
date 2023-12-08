@@ -44,7 +44,7 @@ const build = async () => {
     if (guidelines === undefined) {
       return;
     }
-    
+
     if (typeof guidelines === 'object') {
       return guidelines;
     }

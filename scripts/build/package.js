@@ -50,7 +50,7 @@ const build = async () => {
     }
 
     return {
-      'branding': guidelines,
+      branding: escape(guidelines),
     };
   };
   const licenseToObject = (license) => {

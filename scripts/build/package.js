@@ -40,19 +40,6 @@ const build = async () => {
   const escape = (value) => {
     return value.replace(/(?<!\\)'/g, "\\'");
   };
-  const guidelinesToObject = (guidelines) => {
-    if (guidelines === undefined) {
-      return;
-    }
-
-    if (typeof guidelines === 'object') {
-      return guidelines;
-    }
-
-    return {
-      'branding': escape(guidelines),
-    };
-  };
   const licenseToObject = (license) => {
     if (license === undefined) {
       return;
@@ -73,7 +60,7 @@ const build = async () => {
       escape(icon.source),
       escape(icon.hex),
       icon.guidelines
-        ? `\n  guidelines: ${JSON.stringify(guidelinesToObject(icon.guidelines))},`
+        ? `\n  guidelines: ${JSON.stringify(icon.guidelines)},`
         : '',
       licenseToObject(icon.license)
         ? `\n  license: ${JSON.stringify(licenseToObject(icon.license))},`

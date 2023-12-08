@@ -16,7 +16,7 @@ type SPDXLicense = {
 };
 
 type CustomLicense = {
-  type: "custom";
+  type: 'custom';
   url: string;
 };
 

@@ -3,8 +3,7 @@
  * Types for Simple Icons SDK.
  */
 
-import type { Guidelines } from './types';
-import type { License } from './types';
+import type { Guidelines, License } from './types';
 
 /**
  * The data for a third-party extension.

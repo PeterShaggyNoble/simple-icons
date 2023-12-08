@@ -1,8 +1,13 @@
 /**
- * The license for a Simple Icon.
+ * The guidelines & license for a Simple Icon.
  *
  * @see {@link https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md#optional-data Optional Data}
  */
+export type Guidelines = {
+  branding?: string;
+  trademark?: string;
+};
+
 export type License = SPDXLicense | CustomLicense;
 
 type SPDXLicense = {
@@ -11,7 +16,7 @@ type SPDXLicense = {
 };
 
 type CustomLicense = {
-  type: 'custom';
+  type: "custom";
   url: string;
 };
 
@@ -25,6 +30,6 @@ export interface SimpleIcon {
   path: string;
   source: string;
   hex: string;
-  guidelines?: { [key: string]: string };
+  guidelines?: Guidelines;
   license?: License;
 }

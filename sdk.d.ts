@@ -3,6 +3,7 @@
  * Types for Simple Icons SDK.
  */
 
+import type { Guidelines } from './types';
 import type { License } from './types';
 
 /**
@@ -39,7 +40,7 @@ export type Aliases = {
 type DuplicateAlias = {
   title: string;
   hex?: string;
-  guidelines?: { [key: string]: string };
+  guidelines?: Guidelines;
 };
 
 /**
@@ -54,7 +55,7 @@ export type IconData = {
   hex: string;
   source: string;
   slug?: string;
-  guidelines?: { [key: string]: string };
+  guidelines?: Guidelines;
   license?: License;
   aliases?: Aliases;
 };

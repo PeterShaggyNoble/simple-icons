@@ -4,7 +4,7 @@ Simple Icons asks that its users read this disclaimer fully before including an 
 
 ## Table of Contents
 
-- [Overwiew](#overview)
+- [Overview](#overview)
 - [Licenses, Copyrights & Trademarks](#licenses-copyrights--trademarks)
 - [Brand Guidelines](#brand-guidelines)
 - [Update of Brands](#update-of-brands)

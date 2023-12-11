@@ -2143,6 +2143,11 @@
             "source": "https://www.brevo.com"
         },
         {
+            "title": "Bricks",
+            "hex": "FFD54D",
+            "source": "https://bricksbuilder.io"
+        },
+        {
             "title": "British Airways",
             "hex": "2E5C99",
             "source": "https://www.britishairways.com"
@@ -3580,6 +3585,11 @@
             "title": "deepin",
             "hex": "007CFF",
             "source": "https://commons.wikimedia.org/wiki/File:Deepin_logo.svg"
+        },
+        {
+            "title": "DeepL",
+            "hex": "0F2B46",
+            "source": "https://www.deepl.com/press.html"
         },
         {
             "title": "Deepnote",
@@ -5827,6 +5837,17 @@
             "source": "https://www.grandfrais.com"
         },
         {
+            "title": "GrapheneOS",
+            "hex": "0053A3",
+            "source": "https://github.com/GrapheneOS/branding-extra/blob/5cc2e4b781345b89457d8ef814bd1aae56af289f/simple.svg",
+            "guidelines": "https://github.com/GrapheneOS/branding-extra"
+        },
+        {
+            "title": "Graphite",
+            "hex": "000000",
+            "source": "https://graphite.dev"
+        },
+        {
             "title": "GraphQL",
             "hex": "E10098",
             "source": "https://graphql.org/brand",
@@ -6164,6 +6185,11 @@
             "hex": "222222",
             "source": "https://hederabrandcentral.frontify.com/d/Tmocz52AXpLj/brand-assets#/brand-assets/brand-identity/our-hbar-logomark",
             "guidelines": "https://hederabrandcentral.frontify.com/d/Tmocz52AXpLj/brand-assets#/brand-assets/brand-identity"
+        },
+        {
+            "title": "Helium",
+            "hex": "0ACF83",
+            "source": "https://www.helium.com"
         },
         {
             "title": "HelloFresh",
@@ -10512,6 +10538,11 @@
             "guidelines": "https://www.piaggiogroup.com/en/archive/document/logo-guide"
         },
         {
+            "title": "Piapro",
+            "hex": "E4007B",
+            "source": "https://magicalmirai.com"
+        },
+        {
             "title": "Picard Surgelés",
             "hex": "2D4999",
             "source": "https://www.picard.fr"
@@ -11838,6 +11869,12 @@
             "title": "ResearchGate",
             "hex": "00CCBB",
             "source": "https://c5.rgstatic.net/m/428059296771819/images/favicon/favicon.svg"
+        },
+        {
+            "title": "Resend",
+            "hex": "000000",
+            "source": "https://resend.com/brand",
+            "guidelines": "https://resend.com/brand"
         },
         {
             "title": "ReSharper",
@@ -13271,6 +13308,20 @@
             "hex": "000000",
             "source": "https://www.squarespace.com/logo-guidelines",
             "guidelines": "https://www.squarespace.com/brand-guidelines"
+        },
+        {
+            "title": "SRG SSR",
+            "hex": "AF001E",
+            "source": "https://www.srgssr.ch/en/news-media/downloads/logos",
+            "aliases": {
+                "loc": {
+                    "ch-DE": "Schweizerische Radio- und Fernsehgesellschaft",
+                    "ch-FR": "Société suisse de radiodiffusion et télévision",
+                    "ch-IT": "Società svizzera di radiotelevisione",
+                    "ch-RM": "Societad Svizra da Radio e Televisiun",
+                    "gb-EN": "Swiss Broadcasting Corporation"
+                }
+            }
         },
         {
             "title": "SSRN",

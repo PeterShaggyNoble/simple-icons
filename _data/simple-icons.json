@@ -3412,6 +3412,12 @@
             "source": "https://www.daf.com/en"
         },
         {
+            "title": "daily.dev",
+            "hex": "CE3DF3",
+            "source": "https://brand.daily.dev/d/4gCtbahXkzKk/guidelines",
+            "guidelines": "https://brand.daily.dev"
+        },
+        {
             "title": "Dailymotion",
             "hex": "0D0D0D",
             "source": "https://about.dailymotion.com/en/press/"
@@ -5314,6 +5320,14 @@
             "title": "GitHub Actions",
             "hex": "2088FF",
             "source": "https://github.com/features/actions"
+        },
+        {
+            "title": "GitHub Copilot",
+            "hex": "000000",
+            "source": "https://primer.style/foundations/icons/copilot-24",
+            "license": {
+                "type": "MIT"
+            }
         },
         {
             "title": "GitHub Pages",
@@ -7602,6 +7616,12 @@
             "source": "https://kuula.co"
         },
         {
+            "title": "KX",
+            "hex": "101820",
+            "source": "https://kx.com/news-room",
+            "guidelines": "https://kx.com/news-room"
+        },
+        {
             "title": "Kyocera",
             "hex": "DF0522",
             "source": "https://uk.kyocera.com"
@@ -7827,8 +7847,17 @@
         },
         {
             "title": "LibreOffice Base",
-            "hex": "B63AD3",
+            "hex": "7324A9",
             "source": "https://github.com/LibreOffice/help/blob/e3b1cce7dde7e964c7670dd24a167e750654685a/source/media/navigation/libo-base.svg",
+            "guidelines": "https://wiki.documentfoundation.org/Design/Branding",
+            "license": {
+                "type": "MPL-2.0"
+            }
+        },
+        {
+            "title": "LibreOffice Calc",
+            "hex": "007C3C",
+            "source": "https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-calc.svg",
             "guidelines": "https://wiki.documentfoundation.org/Design/Branding",
             "license": {
                 "type": "MPL-2.0"
@@ -11728,6 +11757,11 @@
             "source": "https://www.red-lang.org"
         },
         {
+            "title": "Red Bull",
+            "hex": "DB0A40",
+            "source": "https://www.redbull.com"
+        },
+        {
             "title": "Red Hat",
             "hex": "EE0000",
             "source": "https://www.redhat.com/en/about/brand/new-brand/details"
@@ -12759,6 +12793,11 @@
             "license": {
                 "type": "CC0-1.0"
             }
+        },
+        {
+            "title": "SimpleLogin",
+            "hex": "EA319F",
+            "source": "https://simplelogin.io/press"
         },
         {
             "title": "Simplenote",
@@ -14178,6 +14217,12 @@
             "title": "Thunderbird",
             "hex": "0A84FF",
             "source": "https://design.thunderbird.net/resources/logo"
+        },
+        {
+            "title": "Thunderstore",
+            "hex": "23FFB0",
+            "source": "https://github.com/thunderstore-io/brand-guidelines/blob/7b5d4b62ca192a61b8ce5842cd8f5ad1f24ffcfd/assets/logo/thunderstore-logomark-black.svg",
+            "guidelines": "https://github.com/thunderstore-io/brand-guidelines"
         },
         {
             "title": "Thurgauer Kantonalbank",

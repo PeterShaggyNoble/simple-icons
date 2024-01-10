@@ -1414,6 +1414,11 @@
             "guidelines": "https://arxiv.org/about/brand"
         },
         {
+            "title": "Asahi Linux",
+            "hex": "A61200",
+            "source": "https://github.com/AsahiLinux/artwork/blob/292637c9658c1491ddc1128fb6134aec01d904dd/logos/svg/AsahiLinux_logomark_mono.svg"
+        },
+        {
             "title": "Asana",
             "hex": "F06A6A",
             "source": "https://asana.com/brand",
@@ -9068,8 +9073,8 @@
         },
         {
             "title": "Minecraft",
-            "hex": "62B47A",
-            "source": "https://education.minecraft.net/press/"
+            "hex": "3C8527",
+            "source": "https://www.minecraft.net"
         },
         {
             "title": "Minetest",
@@ -9803,6 +9808,12 @@
             "title": "Nokia",
             "hex": "005AFF",
             "source": "https://www.nokia.com"
+        },
+        {
+            "title": "Nomad",
+            "hex": "00CA8E",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "title": "Norco",
@@ -10572,6 +10583,11 @@
             "title": "Paperspace",
             "hex": "000000",
             "source": "https://docs.paperspace.com/img/ps-logo-light.svg"
+        },
+        {
+            "title": "Paramount+",
+            "hex": "0064FF",
+            "source": "https://www.paramount.com/brand/paramount-plus"
         },
         {
             "title": "Parity Substrate",
@@ -13360,6 +13376,12 @@
             "title": "Sogou",
             "hex": "FB6022",
             "source": "https://www.sogou.com"
+        },
+        {
+            "title": "Solana",
+            "hex": "9945FF",
+            "source": "https://solana.com/branding",
+            "guidelines": "https://solana.com/branding"
         },
         {
             "title": "Solid",

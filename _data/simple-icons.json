@@ -18,7 +18,7 @@
         {
             "title": "/e/",
             "hex": "000000",
-            "source": "https://gitlab.e.foundation/e/cloud/my-spot/-/blob/4e5430a17ba4ce77d4cb188222e47924f032b197/searx/static/themes/eelo/img/logo.svg"
+            "source": "https://doc.e.foundation"
         },
         {
             "title": "1001Tracklists",
@@ -27,8 +27,9 @@
         },
         {
             "title": "1Password",
-            "hex": "1A285F",
-            "source": "https://1password.com"
+            "hex": "3B66BC",
+            "source": "https://1password.com/press",
+            "guidelines": "https://1password.com/press"
         },
         {
             "title": "3M",
@@ -2467,6 +2468,12 @@
             "source": "https://cardano.org/brand-assets/"
         },
         {
+            "title": "Carlsberg Group",
+            "hex": "00321E",
+            "source": "https://www.carlsberggroup.com/who-we-are/about-the-carlsberg-group/design-guide",
+            "guidelines": "https://www.carlsberggroup.com/who-we-are/about-the-carlsberg-group/design-guide"
+        },
+        {
             "title": "Carrd",
             "hex": "596CAF",
             "source": "https://carrd.co/docs/general/brand-assets"
@@ -3661,6 +3668,11 @@
             "guidelines": "https://www.datto.com/brand"
         },
         {
+            "title": "DaVinci Resolve",
+            "hex": "233A51",
+            "source": "https://www.blackmagicdesign.com/media/images/davinci-resolve-logo-square"
+        },
+        {
             "title": "DAZN",
             "hex": "F8F8F5",
             "source": "https://media.dazn.com/en/assets/"
@@ -4142,7 +4154,8 @@
         {
             "title": "Duolingo",
             "hex": "58CC02",
-            "source": "https://www.duolingo.com"
+            "source": "https://design.duolingo.com",
+            "guidelines": "https://design.duolingo.com"
         },
         {
             "title": "DVC",
@@ -6939,8 +6952,8 @@
         {
             "title": "Instagram",
             "hex": "E4405F",
-            "source": "https://en.facebookbrand.com/instagram/",
-            "guidelines": "https://en.facebookbrand.com/instagram/"
+            "source": "https://about.meta.com/brand/resources/instagram",
+            "guidelines": "https://about.meta.com/brand/resources/instagram"
         },
         {
             "title": "Instapaper",
@@ -7687,6 +7700,11 @@
             "guidelines": "https://github.com/knative/community/blob/main/BRANDING.MD"
         },
         {
+            "title": "Knex.js",
+            "hex": "D26B38",
+            "source": "https://github.com/knex/documentation/blob/a9c4ce47dbc6001bb1c6aa0649bb668edc78fea7/src/public/knex-logo.png"
+        },
+        {
             "title": "KnowledgeBase",
             "hex": "9146FF",
             "source": "https://www.knowledgebase.com/design",
@@ -7831,9 +7849,14 @@
             "guidelines": "https://forums.ni.com/t5/NI-Partner-Network/New-Partner-Co-Marketing-Style-Guide/ba-p/3786987"
         },
         {
-            "title": "Lada",
+            "title": "LADA",
             "hex": "ED6B21",
-            "source": "https://www.lada.ru/priora/sedan/accessories.html"
+            "source": "https://www.lada.ru",
+            "aliases": {
+                "loc": {
+                    "ru-RU": "Лада"
+                }
+            }
         },
         {
             "title": "Lamborghini",
@@ -16460,8 +16483,8 @@
         {
             "title": "Zapier",
             "hex": "FF4F00",
-            "source": "https://brand.zapier.com",
-            "guidelines": "https://brand.zapier.com"
+            "source": "https://www.figma.com/file/NQFxTCE5pGR3dHZt0DkOyy/Zapier-Brand-Guidelines-%5BExternal%5D?type=design&node-id=101-9701&mode=design",
+            "guidelines": "https://www.figma.com/file/NQFxTCE5pGR3dHZt0DkOyy/Zapier-Brand-Guidelines-%5BExternal%5D?type=design&node-id=101-9701&mode=design"
         },
         {
             "title": "Zara",

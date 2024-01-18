@@ -930,6 +930,11 @@
             "source": "https://anilist.co"
         },
         {
+            "title": "Animal Planet",
+            "hex": "0073FF",
+            "source": "https://www.animalplanet.com"
+        },
+        {
             "title": "Ansible",
             "hex": "EE0000",
             "source": "https://www.ansible.com/logos"
@@ -5782,8 +5787,8 @@
         },
         {
             "title": "Google Chat",
-            "hex": "00AC47",
-            "source": "https://chat.google.com"
+            "hex": "34A853",
+            "source": "https://support.google.com/chat/answer/9455386"
         },
         {
             "title": "Google Chrome",
@@ -12737,6 +12742,12 @@
             "hex": "00A1E0",
             "source": "https://brand.salesforce.com/content/logo-guidelines",
             "guidelines": "https://brand.salesforce.com/content/logo-guidelines"
+        },
+        {
+            "title": "Salla",
+            "hex": "BAF3E6",
+            "source": "https://brand.salla.com",
+            "guidelines": "https://brand.salla.com"
         },
         {
             "title": "Salt Project",

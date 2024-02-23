@@ -951,6 +951,11 @@
             "source": "https://www.animalplanet.com"
         },
         {
+            "title": "AnkerMake",
+            "hex": "88F387",
+            "source": "https://www.ankermake.com"
+        },
+        {
             "title": "Ansible",
             "hex": "EE0000",
             "source": "https://www.ansible.com/logos"
@@ -1075,6 +1080,15 @@
             "title": "Apache Flink",
             "hex": "E6526F",
             "source": "https://apache.org/logos",
+            "guidelines": "https://www.apache.org/foundation/marks",
+            "license": {
+                "type": "Apache-2.0"
+            }
+        },
+        {
+            "title": "Apache FreeMarker",
+            "hex": "326CAC",
+            "source": "https://www.apache.org/logos",
             "guidelines": "https://www.apache.org/foundation/marks",
             "license": {
                 "type": "Apache-2.0"
@@ -2493,6 +2507,12 @@
             "title": "Campaign Monitor",
             "hex": "111324",
             "source": "https://www.campaignmonitor.com/company/brand/"
+        },
+        {
+            "title": "Camunda",
+            "hex": "FC5D0D",
+            "source": "https://camunda.com/brand",
+            "guidelines": "https://camunda.com/brand"
         },
         {
             "title": "Canonical",
@@ -6583,6 +6603,11 @@
             "source": "https://www.hetzner.com"
         },
         {
+            "title": "Hevy",
+            "hex": "000000",
+            "source": "https://www.hevyapp.com"
+        },
+        {
             "title": "Hexlet",
             "hex": "116EF5",
             "source": "https://hexlet.io",
@@ -9911,7 +9936,8 @@
         {
             "title": "Next.js",
             "hex": "000000",
-            "source": "https://nextjs.org"
+            "source": "https://vercel.com/design/brands#next-js",
+            "guidelines": "https://vercel.com/design/brands#next-js"
         },
         {
             "title": "NextBillion.ai",
@@ -11082,6 +11108,11 @@
             "source": "https://www.photocrowd.com"
         },
         {
+            "title": "Photon",
+            "hex": "004480",
+            "source": "https://www.photonengine.com"
+        },
+        {
             "title": "Photopea",
             "hex": "18A497",
             "source": "https://github.com/photopea/photopea/blob/d5c532e8ad8ece246e2ea8646aac7df768407c64/logo.svg"
@@ -12026,6 +12057,17 @@
             "title": "QMK",
             "hex": "333333",
             "source": "https://github.com/qmk/qmk.fm/blob/d6f7b646aa03f2941bb3977ba13a07ca351f20ae/assets/images/badge-dark.svg"
+        },
+        {
+            "title": "QNAP",
+            "hex": "0C2E82",
+            "source": "https://marketing.qnap.com/resource/qnap-logo-k100",
+            "guidelines": "https://marketing.qnap.com/resource/qnap-brand-logo-guideline",
+            "aliases": {
+                "aka": [
+                    "Quality Network Appliance Provider"
+                ]
+            }
         },
         {
             "title": "Qt",
@@ -14886,6 +14928,11 @@
             "source": "https://github.com/TheAlgorithms/website/blob/f4e439578c88fed3b21c70898605238602975d2d/public/logo_t.svg"
         },
         {
+            "title": "The Boring Company",
+            "hex": "000000",
+            "source": "https://commons.wikimedia.org/wiki/File:The_Boring_Company_Logo.svg"
+        },
+        {
             "title": "The Conversation",
             "hex": "D8352A",
             "source": "https://theconversation.com/republishing-guidelines"
@@ -16032,6 +16079,11 @@
             "hex": "212721",
             "source": "https://brandfolder.com/portals/vivint",
             "guidelines": "https://s.tiled.co/2wH-ED5/branding-guide"
+        },
+        {
+            "title": "vivo",
+            "hex": "415FFF",
+            "source": "https://www.vivo.com"
         },
         {
             "title": "VK",

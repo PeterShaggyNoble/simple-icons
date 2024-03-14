@@ -2429,6 +2429,11 @@
             "source": "https://www.buymeacoffee.com/brand"
         },
         {
+            "title": "BuySellAds",
+            "hex": "EB4714",
+            "source": "https://docs.buysellads.com"
+        },
+        {
             "title": "BuzzFeed",
             "hex": "EE3322",
             "source": "https://www.buzzfeed.com/press/assets"
@@ -5919,6 +5924,11 @@
             "source": "https://assistant.google.com"
         },
         {
+            "title": "Google Authenticator",
+            "hex": "4285F4",
+            "source": "https://commons.wikimedia.org/wiki/File:Google_Authenticator_(April_2023).svg"
+        },
+        {
             "title": "Google Bard",
             "hex": "886FBF",
             "source": "https://bard.google.com"
@@ -8608,7 +8618,18 @@
         {
             "title": "Logitech",
             "hex": "00B8FC",
-            "source": "https://www.logitech.com/en-us/pr/library"
+            "source": "https://www.logitech.com/en-us/pr/library",
+            "aliases": {
+                "dup": [
+                    {
+                        "title": "Logicool",
+                        "hex": "00BFFF",
+                        "loc": {
+                            "ja-JP": "ロジクール"
+                        }
+                    }
+                ]
+            }
         },
         {
             "title": "Logitech G",

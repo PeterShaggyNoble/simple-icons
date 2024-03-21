@@ -2801,6 +2801,12 @@
             "source": "https://vtlogo.com/chemex-coffeemaker-vector-logo-svg/"
         },
         {
+            "title": "Chess.com",
+            "hex": "81B64C",
+            "source": "https://www.chess.com/article/view/chess-com-brand-resources",
+            "guidelines": "https://www.chess.com/article/view/chess-com-brand-resources"
+        },
+        {
             "title": "Chevrolet",
             "hex": "CD9834",
             "source": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2019-chevrolet-corvette-catalog.pdf"
@@ -3576,6 +3582,11 @@
             "title": "CRYENGINE",
             "hex": "000000",
             "source": "https://www.cryengine.com/brand"
+        },
+        {
+            "title": "CryptPad",
+            "hex": "0087FF",
+            "source": "https://cryptpad.org"
         },
         {
             "title": "Crystal",
@@ -7266,6 +7277,12 @@
             "license": {
                 "type": "CC-BY-SA-3.0"
             }
+        },
+        {
+            "title": "Inoreader",
+            "hex": "1875F3",
+            "source": "https://www.inoreader.com/brand-portal",
+            "guidelines": "https://www.inoreader.com/brand-portal"
         },
         {
             "title": "Insomnia",
@@ -15257,6 +15274,11 @@
             "source": "https://www.lenovo.com/us/en/thinkpad"
         },
         {
+            "title": "thirdweb",
+            "hex": "F213A4",
+            "source": "https://thirdweb.com"
+        },
+        {
             "title": "Threadless",
             "hex": "0099FF",
             "source": "https://www.threadless.com/about-us"
@@ -16302,6 +16324,11 @@
             "title": "Vite",
             "hex": "646CFF",
             "source": "https://vitejs.dev"
+        },
+        {
+            "title": "VitePress",
+            "hex": "5C73E7",
+            "source": "https://github.com/vuejs/vitepress/blob/f7aef3ca23dae39e226c85d7bb2579dbf7c758f3/art/vitepress-logo-mini.svg"
         },
         {
             "title": "Vitess",

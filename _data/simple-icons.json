@@ -114,6 +114,11 @@
             "source": "https://www.abstract.com/about"
         },
         {
+            "title": "abuse.ch",
+            "hex": "00465B",
+            "source": "https://abuse.ch"
+        },
+        {
             "title": "Academia",
             "hex": "41454A",
             "source": "https://www.academia.edu"
@@ -3452,6 +3457,11 @@
             "source": "https://www.cora.fr"
         },
         {
+            "title": "CorelDRAW",
+            "hex": "000000",
+            "source": "https://www.coreldraw.com/en/learn/webinars/ebook-embroidery"
+        },
+        {
             "title": "Corona Engine",
             "hex": "F96F29",
             "source": "https://coronalabs.com",
@@ -3893,6 +3903,12 @@
             "title": "Decap CMS",
             "hex": "FF0082",
             "source": "https://github.com/decaporg/decap-cms/blob/ba158f4a56d6d79869811971bc1bb0ef15197d30/website/static/img/decap-logo.svg"
+        },
+        {
+            "title": "Decentraland",
+            "hex": "FF2D55",
+            "source": "https://github.com/decentraland/catalyst/issues/1726#issuecomment-2078585173",
+            "guidelines": "https://decentraland.org/brand"
         },
         {
             "title": "DeepCool",
@@ -5169,6 +5185,14 @@
             "hex": "0066B3",
             "source": "https://www.firstinspires.org/brand",
             "guidelines": "https://www.firstinspires.org/brand"
+        },
+        {
+            "title": "fish shell",
+            "hex": "34C534",
+            "source": "https://github.com/fish-shell/fish-site/blob/1364b2e794c9aba7492c8962bae0f7fbe4886317/artwork/ascii%20fish.eps",
+            "license": {
+                "type": "GPL-2.0-only"
+            }
         },
         {
             "title": "Fitbit",
@@ -7183,6 +7207,11 @@
             "guidelines": "https://brand.imdb.com/imdb"
         },
         {
+            "title": "iMessage",
+            "hex": "34DA50",
+            "source": "https://commons.wikimedia.org/wiki/File:IMessage_logo.svg"
+        },
+        {
             "title": "Imgur",
             "hex": "1BB76E",
             "source": "https://imgurinc.com/press",
@@ -7948,6 +7977,15 @@
             "title": "KeyCDN",
             "hex": "047AED",
             "source": "https://www.keycdn.com/logos"
+        },
+        {
+            "title": "Keycloak",
+            "hex": "4D4D4D",
+            "source": "https://github.com/keycloak/keycloak-misc/blob/dee033f2d6d6b5c3a6ce8eb84e285f7e5626dbf6/logo/icon-black.svg",
+            "license": {
+                "type": "custom",
+                "url": "https://www.linuxfoundation.org/legal/trademark-usage"
+            }
         },
         {
             "title": "Keystone",
@@ -10933,8 +10971,9 @@
         },
         {
             "title": "OSGeo",
-            "hex": "5CAE58",
-            "source": "https://www.osgeo.org"
+            "hex": "4CB05B",
+            "source": "https://www.osgeo.org",
+            "guidelines": "https://www.osgeo.org/about/branding-material/"
         },
         {
             "title": "Oshkosh",
@@ -14871,6 +14910,11 @@
             "source": "https://github.com/sympy/sympy.github.com/blob/e606a6dc2ee90b1ddaa9c36be6c92392ab300f72/media/sympy-notailtext.svg"
         },
         {
+            "title": "Syncthing",
+            "hex": "0891D1",
+            "source": "https://github.com/syncthing/syncthing/blob/bdfd0f0548d2f6fc4b5500690dbd383baa3b0561/assets/logo-only.svg"
+        },
+        {
             "title": "Synology",
             "hex": "B5B5B6",
             "source": "https://www.synology.com/en-global/company/branding",
@@ -15757,6 +15801,11 @@
             "title": "TV Time",
             "hex": "FFD400",
             "source": "https://www.tvtime.com"
+        },
+        {
+            "title": "TV4 Play",
+            "hex": "E0001C",
+            "source": "https://tv4play.se"
         },
         {
             "title": "Twilio",

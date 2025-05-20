@@ -1727,7 +1727,11 @@
 	{
 		"title": "Authelia",
 		"hex": "113155",
-		"source": "https://github.com/authelia/authelia/blob/8316cd4eb7a6f0778c8f480c61ad76a88416fc3a/docs/static/images/branding/logo.svg"
+		"source": "https://github.com/authelia/authelia/blob/8316cd4eb7a6f0778c8f480c61ad76a88416fc3a/docs/static/images/branding/logo.svg",
+		"guidelines": "https://www.authelia.com/reference/guides/branding",
+		"license": {
+			"type": "Apache-2.0"
+		}
 	},
 	{
 		"title": "Authentik",
@@ -3865,7 +3869,7 @@
 	},
 	{
 		"title": "Crunchyroll",
-		"hex": "F47521",
+		"hex": "FF5E00",
 		"source": "https://www.crunchyroll.com"
 	},
 	{
@@ -5178,6 +5182,12 @@
 		"guidelines": "https://evernote.com/about-us"
 	},
 	{
+		"title": "Every.org",
+		"hex": "2BD7B0",
+		"source": "https://www.every.org/brand",
+		"guidelines": "https://www.every.org/brand"
+	},
+	{
 		"title": "Excalidraw",
 		"hex": "6965DB",
 		"source": "https://excalidraw.com"
@@ -5938,6 +5948,11 @@
 		"source": "https://github.com/denoland/fresh/blob/7e4a22f7af55192a53d90ec6e6bfeacd213c169d/www/static/logo.svg"
 	},
 	{
+		"title": "Frigate",
+		"hex": "000000",
+		"source": "https://frigate.video"
+	},
+	{
 		"title": "Frontend Mentor",
 		"hex": "3F54A3",
 		"source": "https://www.frontendmentor.io"
@@ -6166,10 +6181,15 @@
 	},
 	{
 		"title": "GIMP",
-		"hex": "5C5543",
-		"source": "https://www.gimp.org/about/linking.html#wilber-the-gimp-mascot",
+		"hex": "8C8073",
+		"source": "https://gitlab.gnome.org/GNOME/gimp-data/-/blob/e62f1905dcef7ec831ea6c052bb035eb37eaa69e/images/logo/gimp-logo-unicolor.svg",
 		"license": {
-			"type": "CC-BY-SA-3.0"
+			"type": "CC-BY-SA-4.0"
+		},
+		"aliases": {
+			"aka": [
+				"GNU Image Manipulation Program"
+			]
 		}
 	},
 	{
@@ -8493,7 +8513,13 @@
 	{
 		"title": "KDE",
 		"hex": "1D99F3",
-		"source": "https://kde.org/stuff/clipart/"
+		"source": "https://kde.org/stuff/clipart",
+		"guidelines": "https://kde.org/stuff/clipart",
+		"aliases": {
+			"old": [
+				"K Desktop Environment"
+			]
+		}
 	},
 	{
 		"title": "KDE neon",
@@ -11086,6 +11112,11 @@
 		"title": "Norwegian",
 		"hex": "D81939",
 		"source": "https://www.norwegian.com/ie/travel-info/on-board/in-flight-entertainment/magazine/"
+	},
+	{
+		"title": "NotebookLM",
+		"hex": "000000",
+		"source": "https://notebooklm.google"
 	},
 	{
 		"title": "Notepad++",
@@ -13927,7 +13958,8 @@
 	{
 		"title": "Rocket.Chat",
 		"hex": "F5455C",
-		"source": "https://docs.rocket.chat/docs/media-kit"
+		"source": "https://docs.rocket.chat/docs/media-kit",
+		"guidelines": "https://docs.rocket.chat/docs/brand-and-visual-guidelines"
 	},
 	{
 		"title": "RocksDB",
@@ -16388,7 +16420,7 @@
 		"source": "https://ticktick.com"
 	},
 	{
-		"title": "Tidal",
+		"title": "TIDAL",
 		"hex": "000000",
 		"source": "https://tidal.com/press"
 	},

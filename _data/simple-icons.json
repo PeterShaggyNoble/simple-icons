@@ -1035,6 +1035,11 @@
 		"source": "https://www.antena3.com"
 	},
 	{
+		"title": "AntennaPod",
+		"hex": "364FF3",
+		"source": "https://github.com/AntennaPod/Branding/blob/115dc180bb562eab4e5edc55eccfbdc11cd56873/Logo/logo-icon-white-out.svg"
+	},
+	{
 		"title": "Anthropic",
 		"hex": "191919",
 		"source": "https://www.anthropic.com"
@@ -2477,6 +2482,12 @@
 		"title": "Braintree",
 		"hex": "000000",
 		"source": "https://www.braintreepayments.com/press"
+	},
+	{
+		"title": "Brandfetch",
+		"hex": "0084FF",
+		"source": "https://brandfetch.com/brandfetch.com",
+		"guidelines": "https://brandfetch.com/brandfetch.com"
 	},
 	{
 		"title": "Brandfolder",
@@ -4500,6 +4511,12 @@
 		}
 	},
 	{
+		"title": "DMM",
+		"hex": "000000",
+		"source": "https://dmm-corp.com/presskit",
+		"guidelines": "https://dmm-corp.com/presskit"
+	},
+	{
 		"title": "Docker",
 		"hex": "2496ED",
 		"source": "https://www.docker.com/company/newsroom/media-resources"
@@ -5789,6 +5806,11 @@
 		}
 	},
 	{
+		"title": "Formbricks",
+		"hex": "00C4B8",
+		"source": "https://formbricks.com"
+	},
+	{
 		"title": "Formik",
 		"hex": "2563EB",
 		"source": "https://formik.org"
@@ -6693,7 +6715,7 @@
 	{
 		"title": "Google Lens",
 		"hex": "4285F4",
-		"source": "https://lens.google.com"
+		"source": "https://www.google.com"
 	},
 	{
 		"title": "Google Maps",
@@ -7179,8 +7201,16 @@
 	},
 	{
 		"title": "Have I Been Pwned",
-		"hex": "2A6379",
-		"source": "https://haveibeenpwned.com"
+		"hex": "030304",
+		"source": "https://github.com/HaveIBeenPwned/Branding/blob/d5a5d3c252a461c6c7e2ae60942fc80e50d2755d/Logos/Icon/Icon.svg",
+		"license": {
+			"type": "BSD-3-Clause"
+		},
+		"aliases": {
+			"aka": [
+				"HIBP"
+			]
+		}
 	},
 	{
 		"title": "Haxe",
@@ -8170,6 +8200,11 @@
 		"title": "JCB",
 		"hex": "0B4EA2",
 		"source": "https://www.global.jcb/en/about-us/brand-concept/"
+	},
+	{
+		"title": "JDoodle",
+		"hex": "FD5200",
+		"source": "https://www.jdoodle.com/online-java-compiler"
 	},
 	{
 		"title": "Jeep",
@@ -11019,6 +11054,11 @@
 		}
 	},
 	{
+		"title": "Nhost",
+		"hex": "0052CD",
+		"source": "https://nhost.io"
+	},
+	{
 		"title": "NiceHash",
 		"hex": "FBC342",
 		"source": "https://www.nicehash.com/nicehash-media",
@@ -13368,20 +13408,20 @@
 		"aliases": {
 			"dup": [
 				{
-					"title": "France Inter",
-					"hex": "E20134"
+					"title": "Fip",
+					"hex": "E2007A"
 				},
 				{
 					"title": "France Culture",
 					"hex": "762B84"
 				},
 				{
-					"title": "France Musique",
-					"hex": "A90042"
+					"title": "France Inter",
+					"hex": "E20134"
 				},
 				{
-					"title": "Fip",
-					"hex": "E2007A"
+					"title": "France Musique",
+					"hex": "A90042"
 				},
 				{
 					"title": "Mouv'",
@@ -14793,6 +14833,12 @@
 		}
 	},
 	{
+		"title": "SimpleLocalize",
+		"hex": "222B33",
+		"source": "https://simplelocalize.io",
+		"guidelines": "https://simplelocalize.io/brand"
+	},
+	{
 		"title": "SimpleLogin",
 		"hex": "EA319F",
 		"source": "https://simplelogin.io/press"
@@ -15889,6 +15935,11 @@
 		"title": "Swiper",
 		"hex": "6332F6",
 		"source": "https://swiperjs.com"
+	},
+	{
+		"title": "Swisscows",
+		"hex": "000000",
+		"source": "https://blog.swisscows.com"
 	},
 	{
 		"title": "SWR",
@@ -17223,6 +17274,11 @@
 		"source": "https://www.upwork.com/press/"
 	},
 	{
+		"title": "UserVoice",
+		"hex": "FF6720",
+		"source": "https://www.uservoice.com"
+	},
+	{
 		"title": "USPS",
 		"hex": "333366",
 		"source": "https://www.usps.com"
@@ -18070,6 +18126,11 @@
 		"source": "https://commons.wikimedia.org/wiki/File:Wikiquote-logo.svg"
 	},
 	{
+		"title": "Wikisource",
+		"hex": "006699",
+		"source": "https://en.wikipedia.org/w/index.php?search=Wikisource&fulltext=1"
+	},
+	{
 		"title": "Wikiversity",
 		"hex": "00649A",
 		"source": "https://commons.wikimedia.org/wiki/File:Wikiversity-logo-white.svg"
@@ -18083,6 +18144,12 @@
 		"title": "Winamp",
 		"hex": "F93821",
 		"source": "https://www.winamp.com"
+	},
+	{
+		"title": "Windsurf",
+		"hex": "0B100F",
+		"source": "https://windsurf.com/brand",
+		"guidelines": "https://windsurf.com/brand"
 	},
 	{
 		"title": "Wine",

@@ -5727,6 +5727,12 @@
 		"source": "https://frigate.video"
 	},
 	{
+		"title": "FRITZ!",
+		"hex": "E2001A",
+		"source": "https://fritz.com",
+		"guidelines": "https://business.avm.de/de/data/allgemeine-nutzungsbedingungen-business-portal"
+	},
+	{
 		"title": "Frontend Mentor",
 		"hex": "3F54A3",
 		"source": "https://www.frontendmentor.io"
@@ -9530,6 +9536,11 @@
 		"title": "MacPaw",
 		"hex": "000000",
 		"source": "https://macpaw.com"
+	},
+	{
+		"title": "MacPorts",
+		"hex": "1E79E9",
+		"source": "https://github.com/macports/macports-www/blob/8de17ad57e97d5ff87b16c084cef36059fa6c2f4/img/macports-avatar.svg"
 	},
 	{
 		"title": "Macy's",

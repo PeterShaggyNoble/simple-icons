@@ -11485,7 +11485,10 @@
 	{
 		"title": "OpenJDK",
 		"hex": "000000",
-		"source": "https://hg.openjdk.java.net/duke/duke/file/ca00f100dafc/vector/Agent.svg#l1"
+		"source": "https://hg.openjdk.java.net/duke/duke/file/ca00f100dafc/vector/Agent.svg",
+		"license": {
+			"type": "BSD-3-Clause"
+		}
 	},
 	{
 		"title": "OpenJS Foundation",
@@ -11980,6 +11983,21 @@
 		"hex": "003087",
 		"source": "https://www.paypal.com",
 		"guidelines": "https://newsroom.paypal-corp.com/media-resources"
+	},
+	{
+		"title": "Paysafe",
+		"hex": "5A28FF",
+		"source": "https://brand.paysafe.com",
+		"guidelines": "https://brand.paysafe.com",
+		"aliases": {
+			"dup": [
+				{
+					"title": "PaysafeCard",
+					"hex": "0036C2",
+					"guidelines": "https://brand.paysafe.com/paysafecard"
+				}
+			]
+		}
 	},
 	{
 		"title": "Paytm",

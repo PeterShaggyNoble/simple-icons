@@ -8969,12 +8969,9 @@
 	},
 	{
 		"title": "Launchpad",
-		"hex": "F8C300",
-		"source": "https://help.launchpad.net/logo/submissions",
-		"guidelines": "https://help.launchpad.net/Legal",
-		"license": {
-			"type": "CC-BY-ND-2.0"
-		}
+		"hex": "E95420",
+		"source": "https://launchpad.net",
+		"guidelines": "https://design.ubuntu.com/brand"
 	},
 	{
 		"title": "Lazarus",
@@ -10593,6 +10590,11 @@
 		"title": "MYOB",
 		"hex": "7B14EF",
 		"source": "https://www.myob.com"
+	},
+	{
+		"title": "MyShows",
+		"hex": "CC0000",
+		"source": "https://myshows.me"
 	},
 	{
 		"title": "Myspace",

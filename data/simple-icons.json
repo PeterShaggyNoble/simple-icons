@@ -2192,6 +2192,12 @@
 		"source": "https://insights.bookbub.com/bookbub-follow-bookmark-buttons-for-authors-websites"
 	},
 	{
+		"title": "Booking.com",
+		"hex": "003A9A",
+		"source": "https://www.bookingholdings.com/media-room",
+		"guidelines": "https://www.bookingholdings.com/media-room"
+	},
+	{
 		"title": "Bookmeter",
 		"hex": "64BC4B",
 		"source": "https://bookmeter.com"
@@ -17387,6 +17393,11 @@
 		"title": "Valve",
 		"hex": "F74843",
 		"source": "https://www.valvesoftware.com"
+	},
+	{
+		"title": "Vanilla Extract",
+		"hex": "F786AD",
+		"source": "https://github.com/vanilla-extract-css/vanilla-extract/blob/7d1c4d8f34f07cea7980f7197978f2127d890be7/site/logo.svg"
 	},
 	{
 		"title": "Vapor",

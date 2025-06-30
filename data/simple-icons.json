@@ -2056,6 +2056,11 @@
 		"source": "https://www.bitwig.com"
 	},
 	{
+		"title": "Black",
+		"hex": "000000",
+		"source": "https://black.readthedocs.io"
+	},
+	{
 		"title": "Blackberry",
 		"hex": "000000",
 		"source": "https://www.blackberry.com"
@@ -2283,6 +2288,11 @@
 		"title": "Braintree",
 		"hex": "000000",
 		"source": "https://www.braintreepayments.com/press"
+	},
+	{
+		"title": "Braintrust",
+		"hex": "000000",
+		"source": "https://github.com/simple-icons/simple-icons/issues/13497#issuecomment-2992162934"
 	},
 	{
 		"title": "Brandfetch",
@@ -9529,6 +9539,11 @@
 		"hex": "2C2D72",
 		"source": "https://www.lua.org/images/",
 		"guidelines": "https://www.lua.org/images/"
+	},
+	{
+		"title": "Luau",
+		"hex": "00A2FF",
+		"source": "https://github.com/luau-lang/site/blob/96af82d9c8a22f337908676facf999310f4d87ba/logo.svg"
 	},
 	{
 		"title": "Lubuntu",
@@ -17589,6 +17604,11 @@
 		"hex": "0066B2",
 		"source": "https://www.victronenergy.com/information/press",
 		"guidelines": "https://www.victronenergy.com/information/press"
+	},
+	{
+		"title": "Vikunja",
+		"hex": "196AFF",
+		"source": "https://github.com/go-vikunja/website/blob/45328fa981e7b038cd957a995528706617069420/public/favicon.svg"
 	},
 	{
 		"title": "Vim",

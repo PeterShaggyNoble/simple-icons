@@ -78,18 +78,12 @@ Some companies and organizations are excessively protective with their brands, s
 
 - [Amazon / AWS](https://github.com/simple-icons/simple-icons/pull/13056)
 - BP
-- Disney, including, but not limited to:
-  - Marvel
+- Disney
 - International Olympic Committee
 - Mattel
 - Microchip Technology Inc.
-- [Microsoft](https://github.com/simple-icons/simple-icons/issues/11236), including, but not limited to:
-  - C#
-  - LinkedIn
-  - Playwright
-  - Visual Studio
-- Oracle, including, but not limited to:
-  - Java
+- [Microsoft](https://github.com/simple-icons/simple-icons/issues/11236)
+- Oracle
 - [Yahoo!](https://github.com/simple-icons/simple-icons/pull/9861#issuecomment-1819664495)
 - Do you know more? Please, [report them](https://github.com/simple-icons/simple-icons/issues/new?labels=docs&template=documentation.yml).
 
